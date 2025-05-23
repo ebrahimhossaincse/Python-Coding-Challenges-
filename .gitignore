@@ -1,0 +1,38 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder (adjust if you use a different name or location)
+.venv/
+env/
+venv/
+
+
+# pytest cache
+.cache/
+
+# Allure reports directory
+allure-results/
+allure-report/
+
+# IDE-specific files (adjust according to the IDE you use)
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.log.*
+*.bak
+*.swp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
